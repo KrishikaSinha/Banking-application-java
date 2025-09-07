@@ -2,24 +2,31 @@
 A simple java Banking Application for account management with features like create account, deposit, withdraw, view details, and update contact information.
 
 ---
-# 🛠 Technologies Used
 
--Java (OOP concepts)
--Arrays for storing multiple accounts
--String handling
--Scanner class for input
+# ✨ Features
 
+Create new account
 
+Deposit money
+
+Withdraw money
+
+View account details
+
+Update contact details
 ---
+
 # 📂 Project Structure
 
-├── Account.java        # Account class with attributes and methods
-├── UserInterface.java  # Menu-driven interface for users
-└── BankingApp.java     # Main class to start the program
+-├── Account.java        # Account class with attributes and methods
+
+-├── UserInterface.java  # Menu-driven interface for users
+
+-└── BankingApp.java     # Main class to start the program
 
 ---
 
-## ⚙️ Technologies Used
+## 🛠Technologies Used
 
 - **Java (Core Java)**  
 - **OOP Principles** (Encapsulation, Classes & Objects)  
