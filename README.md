@@ -5,15 +5,12 @@ A simple java Banking Application for account management with features like crea
 
 # ✨ Features
 
-Create new account
+- Create new account
+- Deposit money
+- Withdraw money
+- View account details
+- Update contact details
 
-Deposit money
-
-Withdraw money
-
-View account details
-
-Update contact details
 ---
 
 # 📂 Project Structure
